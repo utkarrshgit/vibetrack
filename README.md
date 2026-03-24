@@ -31,7 +31,7 @@ A backend service for chat session logging with automated Natural Language Proce
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/vibetrack.git](https://github.com/yourusername/vibetrack.git)
+   git clone https://github.com/utkarrshgit/vibetrack.git
    cd vibetrack
    ```
 2. **Install dependencies:**
