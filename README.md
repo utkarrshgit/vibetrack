@@ -36,7 +36,8 @@ A backend service for chat session logging with automated Natural Language Proce
    ```
 2. **Install dependencies:**
    ```bash
-   npm install
+   npm install @google/generative-ai bcryptjs cookie-parser cors dotenv express jsonwebtoken mongoose node-cron zod
+   npm install -D nodemon
    ```
 3. **Configure environment variables:**
    Create a `.env` file in the root directory and add the following:
