@@ -57,7 +57,7 @@ The API is deployed and accessible at: `https://ventlog.onrender.com`.
 
 ## API Documentation
 
-*Base URL: `http://localhost:5001/api`*
+*Base URL: `http://localhost:5001/api`* <br>
 *Base URL (Production): `https://ventlog.onrender.com/api`*
 
 ### Authentication (`/auth`)
