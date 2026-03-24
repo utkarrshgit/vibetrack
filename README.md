@@ -50,7 +50,7 @@ A backend service for chat session logging with automated Natural Language Proce
    ```bash
    npm run dev
    ```
-   The server will start on `http://localhost:5000`.
+   The server will start on `http://localhost:5001`.
 
 ## API Documentation
 
